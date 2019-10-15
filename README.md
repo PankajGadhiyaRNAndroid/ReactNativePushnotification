@@ -21,3 +21,4 @@ npm install
 react-native run-android
 ```
 
+![Image description](snap1.png)
