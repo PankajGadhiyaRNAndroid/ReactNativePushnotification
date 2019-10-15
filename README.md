@@ -21,4 +21,6 @@ npm install
 react-native run-android
 ```
 
-![Image description](snap1.png)
+![Notification snap](snap1.png)
+
+![Notification snap](snap2.png)
